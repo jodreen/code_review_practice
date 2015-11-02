@@ -24,8 +24,6 @@ Comments on Lisa's Code:
 	so you aren't calculating length of shape every time
 - mean: should check for case when axis is None
 
-Comments on Lisa's Code:
-
 Comments on Alon's Code:
 
 "reshape" is as good as it can be.
