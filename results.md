@@ -19,3 +19,13 @@ Nothing unnecessary is run.
 
 
 Comments on Ying's Code:
+  1. reshape:
+    - Nicely done. Brief, efficient, clear, and correct.
+  2. get_increment:
+    - range(0, dim) could be written as range(dim)
+    - recommmend replacing for loop with list comprehension
+    - Code is efficient and clear
+  3. mean:
+    - defining mean_along_axis is unnecessary, simply return it
+      value immediatly 
+    - code is efficient
