@@ -17,6 +17,13 @@ mean
 - brevity: longer
 - code performance: uses built-in map 143 microseconds per loop
 
+
+Comments on Lisa's Code: 
+- reshape: looks good :)
+- get_increment: can save values that you use often to variables (e.g. len(shape) and len(shape)-1),
+	so you aren't calculating length of shape every time
+- mean: should check for case when axis is None
+
 Comments on Lisa's Code:
 
 Comments on Alon's Code:
